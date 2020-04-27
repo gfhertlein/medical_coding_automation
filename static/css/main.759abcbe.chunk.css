@@ -1,0 +1,2 @@
+body{background-color:#263238}[contenteditable=true]:empty:before{content:attr(placeholder);color:grey;display:block}#suggestion__container:focus,.autoComplete_result:focus{outline:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.autoComplete_result:focus{cursor:default}@-moz-document url-prefix(){#autoComplete{border-width:1px;background-size:1.2rem;background-origin:border-box;background-position:50%}}
+/*# sourceMappingURL=main.759abcbe.chunk.css.map */
