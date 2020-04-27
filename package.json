@@ -1,8 +1,8 @@
 {
-  "name": "predictable",
+  "name": "medical_coding_automation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gfhertlein.github.io/predictable",
+  "homepage": "http://gfhertlein.github.io/medical_coding_automation",
   "dependencies": {
     "medium-editor": "^5.23.3",
     "node-sass": "^4.12.0",
